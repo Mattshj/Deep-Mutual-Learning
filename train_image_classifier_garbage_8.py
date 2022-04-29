@@ -43,10 +43,10 @@ tf.app.flags.DEFINE_string('split_name', 'train',
 tf.app.flags.DEFINE_string('dataset_dir', f'{my_env.path}/datasets/results/garbage/tfrecords',
                            'The directory where the dataset files are stored.')
 
-tf.app.flags.DEFINE_string('checkpoint_dir', 'garbage_dml_normal/checkpoint',
+tf.app.flags.DEFINE_string('checkpoint_dir', 'garbage_dml_normal_08/checkpoint',
                            'Directory name to save the checkpoints [checkpoint]')
 
-tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal/logs',
+tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal_08/logs',
                            'Directory name to save the logs')
 
 
@@ -54,7 +54,7 @@ tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal/logs',
 #     Model Settings    #
 #########################
 
-tf.app.flags.DEFINE_string('model_name', 'normal_v1,normal_v1',
+tf.app.flags.DEFINE_string('model_name', 'normal_v1,normal_v1,normal_v1,normal_v1',
                            'The name of the architecture to train.')
 
 tf.app.flags.DEFINE_string('preprocessing_name', 'reid',
@@ -79,7 +79,7 @@ tf.app.flags.DEFINE_integer('ckpt_steps', 25,
 tf.app.flags.DEFINE_integer('num_classes', 6,
                             'The number of classes.')
 
-tf.app.flags.DEFINE_integer('num_networks', 2,
+tf.app.flags.DEFINE_integer('num_networks', 4,
                             'The number of networks in DML.')
 
 tf.app.flags.DEFINE_integer('num_gpus', 1,

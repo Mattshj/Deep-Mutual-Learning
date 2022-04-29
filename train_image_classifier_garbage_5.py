@@ -43,10 +43,10 @@ tf.app.flags.DEFINE_string('split_name', 'train',
 tf.app.flags.DEFINE_string('dataset_dir', f'{my_env.path}/datasets/results/garbage/tfrecords',
                            'The directory where the dataset files are stored.')
 
-tf.app.flags.DEFINE_string('checkpoint_dir', 'garbage_dml_normal/checkpoint',
+tf.app.flags.DEFINE_string('checkpoint_dir', 'garbage_dml_normal_05/checkpoint',
                            'Directory name to save the checkpoints [checkpoint]')
 
-tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal/logs',
+tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal_05/logs',
                            'Directory name to save the logs')
 
 
@@ -61,13 +61,13 @@ tf.app.flags.DEFINE_string('preprocessing_name', 'reid',
                            'The name of the preprocessing to use. If left as `None`, '
                            'then the model_name flag is used.')
 
-tf.app.flags.DEFINE_float('weight_decay', 0.00004,
+tf.app.flags.DEFINE_float('weight_decay', 0.0004,
                           'The weight decay on the model weights.')
 
 tf.app.flags.DEFINE_float('label_smoothing', 0.1,
                           'The amount of label smoothing.')
 
-tf.app.flags.DEFINE_integer('batch_size', 64,
+tf.app.flags.DEFINE_integer('batch_size', 16,
                             'The number of samples in each batch.')
 
 tf.app.flags.DEFINE_integer('max_number_of_steps', 3000,
@@ -89,7 +89,7 @@ tf.app.flags.DEFINE_integer('num_gpus', 1,
 # Optimization Settings #
 #########################
 
-tf.app.flags.DEFINE_string('optimizer', 'adadelta',
+tf.app.flags.DEFINE_string('optimizer', 'sgd',
                            'The name of the optimizer, one of "adadelta", "adagrad", "adam",'
                            '"ftrl", "momentum", "sgd" or "rmsprop".')
 

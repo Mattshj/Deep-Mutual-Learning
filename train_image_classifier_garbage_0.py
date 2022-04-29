@@ -43,10 +43,10 @@ tf.app.flags.DEFINE_string('split_name', 'train',
 tf.app.flags.DEFINE_string('dataset_dir', f'{my_env.path}/datasets/results/garbage/tfrecords',
                            'The directory where the dataset files are stored.')
 
-tf.app.flags.DEFINE_string('checkpoint_dir', 'garbage_dml_normal/checkpoint',
+tf.app.flags.DEFINE_string('checkpoint_dir', 'garbage_dml_normal_00/checkpoint',
                            'Directory name to save the checkpoints [checkpoint]')
 
-tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal/logs',
+tf.app.flags.DEFINE_string('log_dir', 'garbage_dml_normal_00/logs',
                            'Directory name to save the logs')
 
 
