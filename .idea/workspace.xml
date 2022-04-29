@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="707f5efe-bfc8-47db-af64-cafab60b9ad9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_image_classifier_garbage.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_image_classifier_garbage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_0.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_1.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +271,7 @@
       <workItem from="1650801811656" duration="25581000" />
       <workItem from="1651073257423" duration="667000" />
       <workItem from="1651170895424" duration="664000" />
-      <workItem from="1651242149662" duration="22107000" />
+      <workItem from="1651242149662" duration="22382000" />
     </task>
     <task id="LOCAL-00001" summary="successful garbage training">
       <created>1651261971726</created>
@@ -331,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651266798698</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add different runners">
+      <created>1651274838847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651274838847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,7 +374,8 @@
     <MESSAGE value="change config" />
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add different runners" />
+    <option name="LAST_COMMIT_MESSAGE" value="add different runners" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
