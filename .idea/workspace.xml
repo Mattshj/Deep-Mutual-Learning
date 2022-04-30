@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="707f5efe-bfc8-47db-af64-cafab60b9ad9" name="Default" comment="" />
+    <list default="true" id="707f5efe-bfc8-47db-af64-cafab60b9ad9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_00/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_00/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_00/run-garbage_dml_normal_00_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_00/run-garbage_dml_normal_00_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_00/run-garbage_dml_normal_00_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_00/run-garbage_dml_normal_00_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/loss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/run-garbage_dml_normal_01_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/run-garbage_dml_normal_01_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/run-garbage_dml_normal_01_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_01/run-garbage_dml_normal_01_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_02/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_02/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_02/run-garbage_dml_normal_02_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_02/run-garbage_dml_normal_02_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_02/run-garbage_dml_normal_02_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_02/run-garbage_dml_normal_02_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_03/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_03/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_03/run-garbage_dml_normal_03_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_03/run-garbage_dml_normal_03_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_03/run-garbage_dml_normal_03_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_03/run-garbage_dml_normal_03_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_04/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_04/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_04/run-garbage_dml_normal_04_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_04/run-garbage_dml_normal_04_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_04/run-garbage_dml_normal_04_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_04/run-garbage_dml_normal_04_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_05/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_05/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_05/run-garbage_dml_normal_05_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_05/run-garbage_dml_normal_05_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_05/run-garbage_dml_normal_05_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_05/run-garbage_dml_normal_05_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_06/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_06/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_06/run-garbage_dml_normal_06_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_06/run-garbage_dml_normal_06_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_06/run-garbage_dml_normal_06_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_06/run-garbage_dml_normal_06_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_07/precision_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_07/precision_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_07/run-garbage_dml_normal_07_logs-tag-tower_0_kl_loss_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_07/run-garbage_dml_normal_07_logs-tag-tower_0_kl_loss_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_07/run-garbage_dml_normal_07_logs-tag-tower_0_net0_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/garbage_dml_normal_07/run-garbage_dml_normal_07_logs-tag-tower_0_net1_loss_avg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/visualization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_image_classifier_garbage_8.sh" beforeDir="false" afterPath="$PROJECT_DIR$/train_image_classifier_garbage_8.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +69,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -120,7 +176,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/loss.png" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -129,12 +185,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logs" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_03" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_01" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/datasets" />
-      <recent name="$PROJECT_DIR$/nets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/datasets" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_07" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_06" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_05" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_04" />
+      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_03" />
     </key>
   </component>
   <component name="RunManager" selected="Python.train_image_classifier_garbage_8">
@@ -269,7 +331,7 @@
       <workItem from="1651073257423" duration="667000" />
       <workItem from="1651170895424" duration="664000" />
       <workItem from="1651242149662" duration="22382000" />
-      <workItem from="1651314903021" duration="322000" />
+      <workItem from="1651314903021" duration="14256000" />
     </task>
     <task id="LOCAL-00001" summary="successful garbage training">
       <created>1651261971726</created>
@@ -327,7 +389,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651274838847</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add results">
+      <created>1651315248231</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651315248231</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add results">
+      <created>1651315324309</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651315324309</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add results">
+      <created>1651315330195</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651315330195</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -373,7 +456,8 @@
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="add different runners" />
-    <option name="LAST_COMMIT_MESSAGE" value="add different runners" />
+    <MESSAGE value="add results" />
+    <option name="LAST_COMMIT_MESSAGE" value="add results" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

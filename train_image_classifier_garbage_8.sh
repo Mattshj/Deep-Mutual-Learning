@@ -6,4 +6,4 @@
 #SBATCH --time=0-1:00            # time (DD-HH:MM)
 #SBATCH --mail-user=h.fazli.k@gmail.com
 #SBATCH --mail-type=ALL
-python train_image_classifier_garbage_7.py
+python train_image_classifier_garbage_8.py

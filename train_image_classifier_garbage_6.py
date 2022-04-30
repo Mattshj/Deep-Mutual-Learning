@@ -93,7 +93,7 @@ tf.app.flags.DEFINE_string('optimizer', 'sgd',
                            'The name of the optimizer, one of "adadelta", "adagrad", "adam",'
                            '"ftrl", "momentum", "sgd" or "rmsprop".')
 
-tf.app.flags.DEFINE_float('learning_rate', 0.002,
+tf.app.flags.DEFINE_float('learning_rate', 0.02,
                           'Initial learning rate.')
 
 tf.app.flags.DEFINE_float('adam_beta1', 0.5,
