@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="707f5efe-bfc8-47db-af64-cafab60b9ad9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_0.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_image_classifier_garbage_1.sh" afterDir="false" />
-    </list>
+    <list default="true" id="707f5efe-bfc8-47db-af64-cafab60b9ad9" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,6 +269,7 @@
       <workItem from="1651073257423" duration="667000" />
       <workItem from="1651170895424" duration="664000" />
       <workItem from="1651242149662" duration="22382000" />
+      <workItem from="1651314903021" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="successful garbage training">
       <created>1651261971726</created>
