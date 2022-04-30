@@ -3,3 +3,11 @@
 /datasets/results/
 /garbage_dml_normal/
 /market1501_dml_normal/
+/logs/garbage_dml_normal_00/checkpoint/
+/logs/garbage_dml_normal_01/checkpoint/
+/logs/garbage_dml_normal_02/checkpoint/
+/logs/garbage_dml_normal_03/checkpoint/
+/logs/garbage_dml_normal_04/checkpoint/
+/logs/garbage_dml_normal_05/checkpoint/
+/logs/garbage_dml_normal_06/checkpoint/
+/logs/garbage_dml_normal_07/checkpoint/
