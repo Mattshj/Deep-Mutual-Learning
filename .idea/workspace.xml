@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="707f5efe-bfc8-47db-af64-cafab60b9ad9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,11 +139,11 @@
       <recent name="$PROJECT_DIR$/datasets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/garbage_dml_normal_07" />
       <recent name="$PROJECT_DIR$/data/garbage_dml_normal_06" />
       <recent name="$PROJECT_DIR$/data/garbage_dml_normal_05" />
       <recent name="$PROJECT_DIR$/data/garbage_dml_normal_04" />
-      <recent name="$PROJECT_DIR$/data/garbage_dml_normal_03" />
     </key>
   </component>
   <component name="RunManager" selected="Python.train_image_classifier_garbage_8">
@@ -279,7 +278,7 @@
       <workItem from="1651073257423" duration="667000" />
       <workItem from="1651170895424" duration="664000" />
       <workItem from="1651242149662" duration="22382000" />
-      <workItem from="1651314903021" duration="15833000" />
+      <workItem from="1651314903021" duration="16663000" />
     </task>
     <task id="LOCAL-00001" summary="successful garbage training">
       <created>1651261971726</created>
@@ -365,7 +364,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651337678374</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add results">
+      <created>1651362775484</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651362775484</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add results">
+      <created>1651362813443</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651362813443</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
